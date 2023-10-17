@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Domishop-6.props" />
+</Project>
