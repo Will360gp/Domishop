@@ -1,0 +1,15 @@
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DomishopModelos\bin\Debug\net6.0\DomishopModelos.deps.json
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DomishopModelos\bin\Debug\net6.0\DomishopModelos.dll
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DomishopModelos\bin\Debug\net6.0\DomishopModelos.pdb
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DomishopModelos\bin\Debug\net6.0\DomishpUtilidades.dll
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DomishopModelos\bin\Debug\net6.0\DomishpUtilidades.pdb
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DomishopModelos\obj\Debug\net6.0\DomishopModelos.csproj.AssemblyReference.cache
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DomishopModelos\obj\Debug\net6.0\DomishopModelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DomishopModelos\obj\Debug\net6.0\DomishopModelos.AssemblyInfoInputs.cache
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DomishopModelos\obj\Debug\net6.0\DomishopModelos.AssemblyInfo.cs
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DomishopModelos\obj\Debug\net6.0\DomishopModelos.csproj.CoreCompileInputs.cache
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DomishopModelos\obj\Debug\net6.0\DomishopModelos.csproj.CopyComplete
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DomishopModelos\obj\Debug\net6.0\DomishopModelos.dll
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DomishopModelos\obj\Debug\net6.0\refint\DomishopModelos.dll
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DomishopModelos\obj\Debug\net6.0\DomishopModelos.pdb
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DomishopModelos\obj\Debug\net6.0\ref\DomishopModelos.dll

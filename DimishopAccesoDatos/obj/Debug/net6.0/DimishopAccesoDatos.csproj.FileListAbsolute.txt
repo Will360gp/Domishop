@@ -1,0 +1,17 @@
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DimishopAccesoDatos\bin\Debug\net6.0\DimishopAccesoDatos.deps.json
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DimishopAccesoDatos\bin\Debug\net6.0\DimishopAccesoDatos.dll
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DimishopAccesoDatos\bin\Debug\net6.0\DimishopAccesoDatos.pdb
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DimishopAccesoDatos\bin\Debug\net6.0\DomishopModelos.dll
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DimishopAccesoDatos\bin\Debug\net6.0\DomishpUtilidades.dll
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DimishopAccesoDatos\bin\Debug\net6.0\DomishopModelos.pdb
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DimishopAccesoDatos\bin\Debug\net6.0\DomishpUtilidades.pdb
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DimishopAccesoDatos\obj\Debug\net6.0\DimishopAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DimishopAccesoDatos\obj\Debug\net6.0\DimishopAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DimishopAccesoDatos\obj\Debug\net6.0\DimishopAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DimishopAccesoDatos\obj\Debug\net6.0\DimishopAccesoDatos.AssemblyInfo.cs
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DimishopAccesoDatos\obj\Debug\net6.0\DimishopAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DimishopAccesoDatos\obj\Debug\net6.0\DimishopAccesoDatos.csproj.CopyComplete
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DimishopAccesoDatos\obj\Debug\net6.0\DimishopAccesoDatos.dll
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DimishopAccesoDatos\obj\Debug\net6.0\refint\DimishopAccesoDatos.dll
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DimishopAccesoDatos\obj\Debug\net6.0\DimishopAccesoDatos.pdb
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DimishopAccesoDatos\obj\Debug\net6.0\ref\DimishopAccesoDatos.dll

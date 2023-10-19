@@ -1,0 +1,12 @@
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DomishpUtilidades\bin\Debug\net6.0\DomishpUtilidades.deps.json
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DomishpUtilidades\bin\Debug\net6.0\DomishpUtilidades.dll
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DomishpUtilidades\bin\Debug\net6.0\DomishpUtilidades.pdb
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DomishpUtilidades\obj\Debug\net6.0\DomishpUtilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DomishpUtilidades\obj\Debug\net6.0\DomishpUtilidades.AssemblyInfoInputs.cache
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DomishpUtilidades\obj\Debug\net6.0\DomishpUtilidades.AssemblyInfo.cs
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DomishpUtilidades\obj\Debug\net6.0\DomishpUtilidades.csproj.CoreCompileInputs.cache
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DomishpUtilidades\obj\Debug\net6.0\DomishpUtilidades.dll
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DomishpUtilidades\obj\Debug\net6.0\refint\DomishpUtilidades.dll
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DomishpUtilidades\obj\Debug\net6.0\DomishpUtilidades.pdb
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DomishpUtilidades\obj\Debug\net6.0\ref\DomishpUtilidades.dll
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\DomishpUtilidades\obj\Debug\net6.0\DomishpUtilidades.csproj.AssemblyReference.cache
