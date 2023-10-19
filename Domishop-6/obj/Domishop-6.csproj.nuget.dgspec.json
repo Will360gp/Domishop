@@ -27,7 +27,17 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_AccesoDatos\\Domishop_AccesoDatos.csproj": {
+                "projectPath": "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_AccesoDatos\\Domishop_AccesoDatos.csproj"
+              },
+              "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_Modelos\\Domishop_Modelos.csproj": {
+                "projectPath": "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_Modelos\\Domishop_Modelos.csproj"
+              },
+              "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_Utility\\Domishop_Utility.csproj": {
+                "projectPath": "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_Utility\\Domishop_Utility.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -78,6 +88,200 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_AccesoDatos\\Domishop_AccesoDatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_AccesoDatos\\Domishop_AccesoDatos.csproj",
+        "projectName": "Domishop_AccesoDatos",
+        "projectPath": "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_AccesoDatos\\Domishop_AccesoDatos.csproj",
+        "packagesPath": "C:\\Users\\Esatacion 4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_AccesoDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Esatacion 4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_Modelos\\Domishop_Modelos.csproj": {
+                "projectPath": "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_Modelos\\Domishop_Modelos.csproj"
+              },
+              "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_Utility\\Domishop_Utility.csproj": {
+                "projectPath": "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_Utility\\Domishop_Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_Modelos\\Domishop_Modelos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_Modelos\\Domishop_Modelos.csproj",
+        "projectName": "Domishop_Modelos",
+        "projectPath": "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_Modelos\\Domishop_Modelos.csproj",
+        "packagesPath": "C:\\Users\\Esatacion 4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_Modelos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Esatacion 4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_Utility\\Domishop_Utility.csproj": {
+                "projectPath": "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_Utility\\Domishop_Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_Utility\\Domishop_Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_Utility\\Domishop_Utility.csproj",
+        "projectName": "Domishop_Utility",
+        "projectPath": "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_Utility\\Domishop_Utility.csproj",
+        "packagesPath": "C:\\Users\\Esatacion 4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Esatacion 4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

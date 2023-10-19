@@ -75,3 +75,9 @@ C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\Domishop-6\obj\Debug\net6.0\r
 C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\Domishop-6\obj\Debug\net6.0\Domishop-6.pdb
 C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\Domishop-6\obj\Debug\net6.0\Domishop-6.genruntimeconfig.cache
 C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\Domishop-6\obj\Debug\net6.0\ref\Domishop-6.dll
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\Domishop-6\bin\Debug\net6.0\Domishop_AccesoDatos.dll
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\Domishop-6\bin\Debug\net6.0\Domishop_Modelos.dll
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\Domishop-6\bin\Debug\net6.0\Domishop_Utility.dll
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\Domishop-6\bin\Debug\net6.0\Domishop_AccesoDatos.pdb
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\Domishop-6\bin\Debug\net6.0\Domishop_Modelos.pdb
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\Domishop-6\bin\Debug\net6.0\Domishop_Utility.pdb

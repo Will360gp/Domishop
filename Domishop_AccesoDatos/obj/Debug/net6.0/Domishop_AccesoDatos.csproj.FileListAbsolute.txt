@@ -1,0 +1,17 @@
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\Domishop_AccesoDatos\bin\Debug\net6.0\Domishop_AccesoDatos.deps.json
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\Domishop_AccesoDatos\bin\Debug\net6.0\Domishop_AccesoDatos.dll
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\Domishop_AccesoDatos\bin\Debug\net6.0\Domishop_AccesoDatos.pdb
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\Domishop_AccesoDatos\bin\Debug\net6.0\Domishop_Modelos.dll
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\Domishop_AccesoDatos\bin\Debug\net6.0\Domishop_Utility.dll
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\Domishop_AccesoDatos\bin\Debug\net6.0\Domishop_Modelos.pdb
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\Domishop_AccesoDatos\bin\Debug\net6.0\Domishop_Utility.pdb
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\Domishop_AccesoDatos\obj\Debug\net6.0\Domishop_AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\Domishop_AccesoDatos\obj\Debug\net6.0\Domishop_AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\Domishop_AccesoDatos\obj\Debug\net6.0\Domishop_AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\Domishop_AccesoDatos\obj\Debug\net6.0\Domishop_AccesoDatos.AssemblyInfo.cs
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\Domishop_AccesoDatos\obj\Debug\net6.0\Domishop_AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\Domishop_AccesoDatos\obj\Debug\net6.0\Domishop_AccesoDatos.csproj.CopyComplete
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\Domishop_AccesoDatos\obj\Debug\net6.0\Domishop_AccesoDatos.dll
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\Domishop_AccesoDatos\obj\Debug\net6.0\refint\Domishop_AccesoDatos.dll
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\Domishop_AccesoDatos\obj\Debug\net6.0\Domishop_AccesoDatos.pdb
+C:\Users\Esatacion 4\Documents\Domishop\Domishop-6\Domishop_AccesoDatos\obj\Debug\net6.0\ref\Domishop_AccesoDatos.dll

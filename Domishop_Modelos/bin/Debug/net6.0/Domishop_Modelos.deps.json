@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Domishop_Modelos/1.0.0": {
+        "dependencies": {
+          "Domishop_Utility": "1.0.0"
+        },
+        "runtime": {
+          "Domishop_Modelos.dll": {}
+        }
+      },
+      "Domishop_Utility/1.0.0": {
+        "runtime": {
+          "Domishop_Utility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Domishop_Modelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domishop_Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

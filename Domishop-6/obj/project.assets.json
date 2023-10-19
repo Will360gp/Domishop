@@ -951,6 +951,47 @@
             "rid": "win"
           }
         }
+      },
+      "Domishop_AccesoDatos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Domishop_Modelos": "1.0.0",
+          "Domishop_Utility": "1.0.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.20",
+          "Microsoft.EntityFrameworkCore": "6.0.20",
+          "Microsoft.EntityFrameworkCore.Relational": "6.0.20",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.20"
+        },
+        "compile": {
+          "bin/placeholder/Domishop_AccesoDatos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domishop_AccesoDatos.dll": {}
+        }
+      },
+      "Domishop_Modelos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Domishop_Utility": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Domishop_Modelos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domishop_Modelos.dll": {}
+        }
+      },
+      "Domishop_Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Domishop_Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domishop_Utility.dll": {}
+        }
       }
     }
   },
@@ -2442,10 +2483,28 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Domishop_AccesoDatos/1.0.0": {
+      "type": "project",
+      "path": "../Domishop_AccesoDatos/Domishop_AccesoDatos.csproj",
+      "msbuildProject": "../Domishop_AccesoDatos/Domishop_AccesoDatos.csproj"
+    },
+    "Domishop_Modelos/1.0.0": {
+      "type": "project",
+      "path": "../Domishop_Modelos/Domishop_Modelos.csproj",
+      "msbuildProject": "../Domishop_Modelos/Domishop_Modelos.csproj"
+    },
+    "Domishop_Utility/1.0.0": {
+      "type": "project",
+      "path": "../Domishop_Utility/Domishop_Utility.csproj",
+      "msbuildProject": "../Domishop_Utility/Domishop_Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Domishop_AccesoDatos >= 1.0.0",
+      "Domishop_Modelos >= 1.0.0",
+      "Domishop_Utility >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 6.0.20",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.20",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.20",
@@ -2479,7 +2538,17 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_AccesoDatos\\Domishop_AccesoDatos.csproj": {
+              "projectPath": "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_AccesoDatos\\Domishop_AccesoDatos.csproj"
+            },
+            "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_Modelos\\Domishop_Modelos.csproj": {
+              "projectPath": "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_Modelos\\Domishop_Modelos.csproj"
+            },
+            "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_Utility\\Domishop_Utility.csproj": {
+              "projectPath": "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop_Utility\\Domishop_Utility.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
