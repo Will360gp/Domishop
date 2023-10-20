@@ -14,10 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Data\Migrations\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Domishop_Modelos\Domishop_Modelos.csproj" />
     <ProjectReference Include="..\Domishop_Utility\Domishop_Utility.csproj" />
   </ItemGroup>
