@@ -9,13 +9,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Areas\Admin\Controllers\**" />
     <Compile Remove="Models\**" />
-    <Content Remove="Areas\Admin\Controllers\**" />
     <Content Remove="Models\**" />
-    <EmbeddedResource Remove="Areas\Admin\Controllers\**" />
     <EmbeddedResource Remove="Models\**" />
-    <None Remove="Areas\Admin\Controllers\**" />
     <None Remove="Models\**" />
   </ItemGroup>
 
