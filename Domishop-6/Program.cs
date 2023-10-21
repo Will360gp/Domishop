@@ -1,4 +1,6 @@
 using Domishop__AccesoDatos.Data;
+using Domishop_AccesoDatos.Repositorio;
+using Domishop_AccesoDatos.Repositorio.IRepositorio;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -14,6 +16,14 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
 
+// Linea de servicios tiene que estar por encima de (var app = builder.Buold();)--------------------------------
+
+builder.Services.AddScoped<IUnidadTrabajo, UnidadTrabajo>();
+
+
+
+
+// Linea de servicios tiene que estar por encima de (var app = builder.Buold();)--------------------------------
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
