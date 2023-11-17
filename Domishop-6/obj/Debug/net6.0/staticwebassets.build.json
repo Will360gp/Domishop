@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "I5INeEtXvq1gnULFxzbzh2lqGsvcEg3vmQTxQTgm/FM=",
+  "Hash": "8aFIrf37ka8g+FtIw+B20qmZtIQjGudF6QEPQqPG/EA=",
   "Source": "Domishop-6",
   "BasePath": "_content/Domishop-6",
   "Mode": "Default",
@@ -1103,6 +1103,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop-6\\wwwroot\\js\\Bodega.js",
+      "SourceId": "Domishop-6",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop-6\\wwwroot\\",
+      "BasePath": "_content/Domishop-6",
+      "RelativePath": "js/Bodega.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Bodega.js"
     },
     {
       "Identity": "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop-6\\wwwroot\\js\\site.js",
