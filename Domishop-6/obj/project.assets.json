@@ -2454,19 +2454,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Esatacion 4\\.nuget\\packages\\": {}
+    "C:\\Users\\Jorge\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop-6\\Domishop-6.csproj",
+      "projectUniqueName": "D:\\paginaweb con c#\\Domishop\\Domishop-6\\Domishop-6.csproj",
       "projectName": "Domishop-6",
-      "projectPath": "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop-6\\Domishop-6.csproj",
-      "packagesPath": "C:\\Users\\Esatacion 4\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Esatacion 4\\Documents\\Domishop\\Domishop-6\\Domishop-6\\obj\\",
+      "projectPath": "D:\\paginaweb con c#\\Domishop\\Domishop-6\\Domishop-6.csproj",
+      "packagesPath": "C:\\Users\\Jorge\\.nuget\\packages\\",
+      "outputPath": "D:\\paginaweb con c#\\Domishop\\Domishop-6\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Esatacion 4\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jorge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2532,7 +2537,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
